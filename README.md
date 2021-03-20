@@ -1,4 +1,4 @@
-##react-todo
+## react-todo
 
 This is a simple todo list application mainly utilizing React JS and the Flux architecture. It's meant as a tutorial or guide for how to build a React JS application.
 
