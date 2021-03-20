@@ -4,11 +4,11 @@ This is a simple todo list application mainly utilizing React JS and the Flux ar
 
 It uses npm and bower for package management, the default Bootstrap theme, LESS CSS for minor style and positioning adjustments, and finally brunch to build it all up and provide a simple web server. It also uses node's EventEmitter for event notifications as per the Flux architecture.
 
-###Installation
+### Installation
 
 make build
 
-###Run
+### Run
 
 make start
 
